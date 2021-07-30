@@ -1,0 +1,18 @@
+Used tilesets
+---
+- "School Tileset"
+by Alilali
+[https://rpgtileset.com/tileset/school-tileset/]
+- "Tilesets FSM RM2K3 para VX/Ace: Set Escritorio"
+by milkian
+[https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743]
+- "Tilesets Modern + Mack"
+by milkian
+[https://www.deviantart.com/milkian/art/Tilesets-Modern-Mack-723975011]
+- "RPG Maker VX - Tile C"
+by Ayene-chan
+[https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Tile-C-458385708]
+- "32x32 tilemap grass dungeon floors snow water"
+by gfx0
+[https://opengameart.org/content/32x32-tilemap-grass-dungeon-floors-snow-water]
+
