@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"HU_OG.json#Eingang_HU_OG"
+                 "value":"HU_UG.json#Eingang_HU_OG"
                 }],
          "type":"tilelayer",
          "visible":true,
