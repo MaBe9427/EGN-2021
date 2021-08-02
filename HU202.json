@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/MaBe9427\/EGN-2021\/Bilder\/Urkunde2021.pdf"
+                 "value":"https:\/\/raw.githubusercontent.com\/MaBe9427\/EGN-2021\/master\/Bilder\/Urkunde2021.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
