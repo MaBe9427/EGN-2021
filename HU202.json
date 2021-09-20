@@ -74,7 +74,19 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610613599, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610613599, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":15,
+         "id":12,
+         "name":"auf_Boden",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
          "width":15,
          "x":0,
          "y":0
@@ -150,7 +162,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":12,
+ "nextlayerid":13,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -481,6 +493,19 @@
          "name":"RPG Maker VX - Tile C",
          "spacing":0,
          "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":853,
+         "image":"tiles\/Ausg\u00e4nge.png",
+         "imageheight":256,
+         "imagewidth":160,
+         "margin":0,
+         "name":"Ausg\u00e4nge",
+         "spacing":0,
+         "tilecount":40,
          "tileheight":32,
          "tilewidth":32
         }],
