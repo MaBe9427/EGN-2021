@@ -312,7 +312,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/audio\/Einleitung_online.mp3"
+                 "value":"\/audio\/Einleitung_online_Koffer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
